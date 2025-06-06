@@ -28,3 +28,4 @@ data/input_data/
 # models/*.pkl 
 # uploads/*
 *.pkl
+*.pkl
