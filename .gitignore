@@ -27,3 +27,4 @@ data/input_data/
 # e.g., large model files if not using LFS
 # models/*.pkl 
 # uploads/*
+*.pkl
